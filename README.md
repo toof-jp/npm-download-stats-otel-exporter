@@ -3,7 +3,7 @@
 ## Run
 
 ```sh
-PACKAGES="react,vue" cargo run
+PACKAGES="axios,chatgpt" cargo run
 ```
 
 `PACKAGES` accepts a comma-separated list of npm package names.
