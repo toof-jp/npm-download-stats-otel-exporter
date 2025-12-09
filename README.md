@@ -3,7 +3,7 @@
 ## Run
 
 ```sh
-PACKAGES="axios,chatgpt" cargo run
+PACKAGES="axios,uuid" cargo run
 ```
 
 `PACKAGES` accepts a comma-separated list of npm package names.
